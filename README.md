@@ -36,6 +36,7 @@ prompt-engineering/
 - Python 3.13 or higher
 - OpenAI API key (sign up at [OpenAI](https://platform.openai.com/))
 - Basic understanding of Python and Jupyter notebooks
+- Make sure [UV](https://docs.astral.sh/uv/getting-started/installation/) is installed on your machine
 
 ### Installation
 
